@@ -1,2 +1,2 @@
-aiogram
-asyncio
+aiogram==2.13
+asyncio==3.4.2
